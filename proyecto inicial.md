@@ -37,6 +37,10 @@ El sistema requiere 10 entidades principales agrupadas en tres dominios:
 
 ---
 
+<img width="705" height="665" alt="image" src="https://github.com/user-attachments/assets/a5786a57-354f-41e9-ba2a-359adfeebf6e" />
+<img width="780" height="667" alt="image" src="https://github.com/user-attachments/assets/ce48e608-9d12-43a2-8108-976db09257d1" />
+
+
 **Notas de diseño DBA**
 
 - El campo `km_salida` / `km_entrada` en `contrato_renta` permite calcular cargos por exceso de kilometraje sin depender de registros externos.
